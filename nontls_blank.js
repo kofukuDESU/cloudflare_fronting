@@ -1,4 +1,4 @@
-// Developed by Surfboardv2ray modified by leon4rdo78
+// Developed by Surfboardv2ray modified by kofukudesu
 // https://github.com/Surfboardv2ray/v2ray-refiner
 // Change 'url.port' and 'const workerport' value if your config uses another port. Only one port will work at a time.
 
